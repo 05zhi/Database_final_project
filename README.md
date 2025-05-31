@@ -3,10 +3,6 @@
 逢甲大學資訊工程學系系網
 
 ### 網頁說明
-/
-├── project_root
-│   └── members
-│       ├── chair.html
 
 - `/`           首頁
 - `about.html`  系所簡介
